@@ -1,17 +1,22 @@
 @import "vars";
 @import "global";
 @import "fonts";
-
+@import "blocks/forms";
+@import "blocks/buttons";
 
 
 
 //PROMO
 
-@import "blocks/promo.scss";
-@import "blocks/header.scss";
-@import "blocks/buttons.scss";
+@import "blocks/promo";
+@import "blocks/header";
+
 
 
 // ADVANTAGES
 
 @import "blocks/advantages";
+
+//CONSULTATION
+
+@import "blocks/consultation";
