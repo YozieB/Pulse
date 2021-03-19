@@ -1,6 +1,7 @@
 .feed__form{
     margin-top: 36px;
     display: flex;
+    
     flex-direction: column;
     max-width: 300px;
     input{
@@ -9,6 +10,7 @@
         border-radius: 5px;
         margin-bottom: 15px;
         border: none;
+        outline: none;
         padding-left: 20px;
         padding-right: 20px;
         color: #4b4b4b;
