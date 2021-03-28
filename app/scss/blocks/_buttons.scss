@@ -21,6 +21,12 @@
         outline: none;
         cursor: pointer;
     }
+    &-mini{
+        padding: 14px 35px;
+        line-height: 14px;
+        font-weight: 500;
+        font-size: 14px;
+    }
 }
 
 @media(max-width: 500px){
